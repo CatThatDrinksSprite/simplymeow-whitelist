@@ -1,3 +1,8 @@
-[
-  {"CodeName": "CatThatDrinksSprite", "UserID": 10715865997},
-]
+{
+  "data": [
+    {
+      "CodeName": "CatThatDrinksSprite",
+      "UserID": 10715865997
+    },
+  ]
+}
